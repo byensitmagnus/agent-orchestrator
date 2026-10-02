@@ -238,3 +238,7 @@ AO uses privacy-preserving product usage and reliability metrics designed to exc
 ## License
 
 Agent Orchestrator is available under the [Apache License 2.0](LICENSE).
+
+## Fork provenance and preview
+
+[Open the fork overview](docs/PROJECT-OVERVIEW.md) for upstream credit, existing visual demos and a concise walkthrough.
